@@ -1,5 +1,15 @@
 # Changelog
 
+## Unreleased — customization
+
+### Added
+- Weekly VTI/SGOV trend research with NYSE checkpoints, hysteresis, segregated
+  whole-share accounting, explicit settlement/cost assumptions, three benchmark
+  portfolios and sensitivity reports driven by LumiBot's daily backtest clock.
+- Persistent local paper observation and synthetic execution replay, plus a
+  separate Schwab confirmation boundary that requires exact-account and cash
+  evidence, journals uncertain submissions, and reconciles partial fills.
+
 ## 4.6.2 - 2026-09-27
 
 ### Changed

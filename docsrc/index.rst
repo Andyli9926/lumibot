@@ -578,6 +578,7 @@ Table of Contents
    Start Here / Python Setup <getting_started>
    The lumibot Command <cli>
    Python Strategy Examples <examples>
+   VTI / SGOV Research and Paper <VTI_SGOV_WORKFLOW>
    AI Quickstart <agents_quickstart>
    AI Examples <agents_examples>
    For Coding Agents <agent_start_here>
